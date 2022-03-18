@@ -6,7 +6,7 @@ Direct mailings to a company’s potential customers – “junk mail” to many
 The client wants us to predict whether a customer is interested in a caravan insurance policy from other data about the customer. Information about customers consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes. The data was supplied based on a real world business problem. The training set contains over 5000
 descriptions of customers, including the information of whether or not they have a caravan
 insurance policy. A test set contains 4000 customers of whom target variable is not shared with
-you.
+us.
 
 **Solution:**
 For the given train and test data processing, handling missing values is done. Used train dataset for building the decision tree model to predict outcome for the given test data. The accuracy of the model came to be 72%. Accuracy and precision also calculated. Expected outcomes are in either 0 or 1. The output file is provided in the csv format.
