@@ -9,6 +9,6 @@ insurance policy. A test set contains 4000 customers of whom target variable is 
 us.
 
 **Solution:**
-For the given train and test data processing, handling missing values is done. Used train dataset for building the decision tree model to predict outcome for the given test data. The accuracy of the model came to be 72%. Accuracy and precision also calculated. Expected outcomes are in either 0 or 1. The output file is provided in the csv format.
+For the given train and test data processing, handling missing values is done. Used train dataset for building the decision tree model to predict outcome for the given test data. The accuracy of the model came to be 80%. Accuracy and precision also calculated. Expected outcomes are in either 0 or 1. The output file is provided in the csv format.
 
 
